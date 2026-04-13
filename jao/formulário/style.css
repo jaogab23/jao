@@ -1,0 +1,37 @@
+body {
+    background-color: lightblue;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin: 50px auto;
+    background-color: white;
+    padding: 10px;
+    width: 600px;
+    justify-content: center;
+    display: flex;
+}
+input{
+    padding: 15px 20px;
+    border-radius: 10px;
+    margin: 10px;
+}
+label{
+    display:block;
+    margin-bottom: 8px ;
+}
+#titulo{
+    justify-content: center;
+    display: flex;
+    color:darkkhaki
+}
+#fundo{
+    justify-content: center;
+    display: flex;
+    color: burlywood;
+}
+#titulo1{
+    justify-content: center;
+    display: flex;
+}
